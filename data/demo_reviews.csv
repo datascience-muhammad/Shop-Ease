@@ -1,0 +1,11 @@
+review,expected_sentiment
+"The product is amazing, absolutely love it! Best purchase this year.",positive
+"Terrible experience. The item arrived broken and customer support was useless.",negative
+"It is okay. Nothing special but it works as described.",neutral
+"Excellent rapport qualité-prix. Très satisfait de mon achat.",positive
+"Schreckliche Qualität. Ich werde hier nie wieder bestellen.",negative
+"Design is nice but the performance is average.",neutral
+"Fast shipping and great packaging. Substantially better than competitors.",positive
+"Waste of money. Don't buy this!",negative
+"Value for money is decent. Not the best but definitely not the worst.",neutral
+"¡Increíble! Me encanta mucho.",positive
