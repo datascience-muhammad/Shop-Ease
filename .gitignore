@@ -11,6 +11,10 @@ venv/
 ENV/
 env/
 
+# Agent and Extras
+.agent/
+extras/
+
 # IDEs
 .vscode/
 .idea/
